@@ -70,3 +70,15 @@ footer {
     text-align: center;
     clear: both;
 }
+#hero {
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+
+#hero img {
+  max-width: 100%;
+  height: auto;
+}
